@@ -1,2 +1,3 @@
 # leetcode
-blind 75 leedcode problems
+
+## Two Sum = [text](https://leetcode.com/problems/two-sum/description/)
