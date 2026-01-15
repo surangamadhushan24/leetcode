@@ -1,3 +1,5 @@
 # leetcode
 
-## Two Sum = [text](https://leetcode.com/problems/two-sum/description/)
+##  [two sum](https://leetcode.com/problems/two-sum/description/)
+##  [add two number](https://leetcode.com/problems/add-two-numbers/description/)
+
