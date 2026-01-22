@@ -4,4 +4,5 @@
 ###  [add two number](https://leetcode.com/problems/add-two-numbers/description/)
 ### [reverse integer](https://leetcode.com/problems/reverse-integer/)
 ### [palindrome number](https://leetcode.com/problems/palindrome-number/)
+### [plus one](https://leetcode.com/problems/plus-one/description/)
 
