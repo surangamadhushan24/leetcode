@@ -8,6 +8,7 @@
 ### [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 ### [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 ### [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+### [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
 
 
 
