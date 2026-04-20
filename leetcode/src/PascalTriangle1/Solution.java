@@ -7,10 +7,14 @@ import java.util.List;
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         if (numRows == 0) return Collections.emptyList();
+
+
         List<List<Integer>> list = new ArrayList<>();
-        for (int i = 0; i < numRows; ++i) {
+
+
+        for (int i = 0; i < numRows; i++) {
             List<Integer> sub = new ArrayList<>();
-            for (int j = 0; j <= i; ++j) {
+            for (int j = 0; j <= i; j++) {
                 if (j == 0 || j == i) {
                     sub.add(1);
                 } else {
@@ -22,4 +26,4 @@ class Solution {
         }
         return list;
     }
-}
+}//[[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
