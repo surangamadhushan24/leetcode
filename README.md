@@ -9,6 +9,9 @@
 ### [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 ### [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 ### [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
+### [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+
+
 
 
 
